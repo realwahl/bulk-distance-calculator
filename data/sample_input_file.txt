@@ -1,0 +1,2 @@
+1	Some data	Eiffel Tower, Paris, France	Some other data	51.5031897,-0.1220941
+3	Foo	Champ de Mars, 5 Av. Anatole France, 75007 Paris, France	Foo 2	30 Victoria Embankment, London SW1A 2ET, United Kingdom

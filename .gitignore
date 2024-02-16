@@ -1,0 +1,5 @@
+nbproject
+.vagrant
+.idea
+data/*
+!data/sample_input_file.txt
